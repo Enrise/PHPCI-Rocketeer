@@ -7,7 +7,7 @@
  * @link         https://www.phptesting.org/
  */
 
-namespace Enrise\PHPCI\Rocketeer;
+namespace Enrise\PHPCI\Plugins;
 
 use PHPCI\Builder;
 use PHPCI\Model\Build;
@@ -20,7 +20,7 @@ use Psr\Log\LogLevel;
  * @package PHPCI\Plugin
  * @see http://rocketeer.autopergamene.eu/
  */
-class Rocketeer implements Plugin
+class RocketeerPlugin implements Plugin
 {
     protected $phpci;
     protected $build;
