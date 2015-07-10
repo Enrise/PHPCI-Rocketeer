@@ -1,0 +1,25 @@
+{
+    "name": "enrise/phpci-rocketeer",
+    "description": "A PHPCI plugin that allows you to deploy your code with Rocketeer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rick van der Staaij",
+            "homepage": "http://rickvanderstaaij.nl",
+            "role": "Developer"
+        },
+        {
+            "name": "Stefan van Essen",
+            "email": "git@stefan-van-essen.nl",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+              "Enrise\\PHPCI\\Rocketeer\\": "src"
+        }
+    }
+}
