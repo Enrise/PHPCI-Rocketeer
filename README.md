@@ -3,7 +3,7 @@
 A rocketeer plugin for PHPCI so PHPCI can deploy your code after a succesful build.
 
 The commits on GitHub pull-requests will not be deployed, only commits merged into the main repository will be deployed
-if the branch is matching one branchses in the config.
+if the branch is matching one branches in the config.
 
 ### PHPCI config
 
