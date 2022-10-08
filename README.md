@@ -1,3 +1,9 @@
+# Archived and unmaintained
+
+This is an old repository that is no longer used or maintained. We advice to no longer use this repository.
+
+## Original README can be found below:
+
 # [PHPCI](https://www.phptesting.org/)-[Rocketeer](http://rocketeer.autopergamene.eu/)
 
 A rocketeer plugin for PHPCI so PHPCI can deploy your code after a succesful build.
